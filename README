@@ -1,0 +1,3 @@
+*HOW TO USE*
+
+/Users/josueaubert/Documents/Tsinghua2026/DIVE/DIVE -i cat_epszero.txt  -o out_epszero.txt  -l 0 -u 10
