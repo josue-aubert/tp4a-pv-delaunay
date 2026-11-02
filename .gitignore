@@ -6,3 +6,6 @@
 
 # text files 
 *.txt
+
+# npz files 
+*.npz
